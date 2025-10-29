@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: vaishnavi447/LinkeInLearning-Github-ContinuousDelivery-Challenge/.github/workflows/python-app.yml@main
+    uses: https://github.com/vaishnavi477/LinkedInLearning-Github-ContinuousDelivery-Challenge/blob/c379585526db49b09dc260797b548725ba705625/.github/workflows/python-app.yml@main
     permissions:
       contents: read
   build:
