@@ -27,7 +27,7 @@ jobs:
     uses: vaishnavi447/LinkedInLearning-Github-ContinuousDelivery-Challenge/.github/workflows/python-app.yml@main
     permissions:
       contents: read
-      
+            
   build:
     needs: [integration]
     
